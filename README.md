@@ -12,8 +12,3 @@ Current Plans for the Future:
 
 1) Add capability for messages to be entered as a string on the command line.
 2) Add capability to specify a time of day for the message to be sent. 
-
-
-
-Dedication:
-A special thanks to my friend Sarah, who was the inspiration for this script. And who though I never told her was a great help to me in getting through the 2012 FALL Semester of Hell. 
